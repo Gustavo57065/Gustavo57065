@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavo57065&theme=dark" alt="gustavo57065" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/gustavo57065](https://github.com/Gustavo57065)
+- 👨‍💻 All of my projects are available at [GitHub Personal](https://github.com/Gustavo57065)
 
 ## Interest(s)
 
