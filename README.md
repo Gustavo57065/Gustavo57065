@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Gustavo!!</h1>
 <h3 align="center">Computer science student in Federal Technological University of Paraná</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gustavo57065&theme=dark" alt="Gustavo57065" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavo57065&theme=dark" alt="gustavo57065" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Gustavo57065](https://github.com/GustavoQuieregato)
+- 👨‍💻 All of my projects are available at [https://github.com/gustavo57065](https://github.com/GustavoQuieregato)
 
 ## Interest(s)
 
@@ -13,16 +13,16 @@
   * Methodology Agility
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo57065&theme=dark" alt="Gustavo57065" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavo57065&theme=dark" alt="gustavo57065" />
 </p>  
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gustavo57065&show_icons=true&theme=dark&hide_border=true&locale=en" alt="Gustavo57065" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavo57065&show_icons=true&theme=dark&hide_border=true&locale=en" alt="gustavo57065" /></p>
 </br>
 <h3 align="center">Go to connect to me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gustavo-silva-838b83131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavo-silva-838b83131" height="30" width="40" /></a>
 <a href="https://discord.gg/Quieregato#8594" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Quieregato#8594" height="30" width="40" /></a>
- <a href="https://stackoverflow.com/users/Gustavo57065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Gustavo57065" height="30" width="40" /></a>
+ <a href="https://stackoverflow.com/users/gustavo57065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gustavo57065" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Skill, language and tool(s) already used:</h3>
